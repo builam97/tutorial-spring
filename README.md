@@ -12,4 +12,4 @@
 	* ManyToMany
 	* Save,Persist,Merge, Update
 * Liquibase DB
-![img](https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg)
+![img](https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg | width=100)
